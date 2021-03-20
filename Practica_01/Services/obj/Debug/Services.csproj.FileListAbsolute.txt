@@ -1,0 +1,18 @@
+C:\Users\Pedro\Documents\Tareas\Programacion\Agenda de Contacto\Services\bin\Debug\Services.dll
+C:\Users\Pedro\Documents\Tareas\Programacion\Agenda de Contacto\Services\bin\Debug\Services.pdb
+C:\Users\Pedro\Documents\Tareas\Programacion\Agenda de Contacto\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\Pedro\Documents\Tareas\Programacion\Agenda de Contacto\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\Tareas\Programacion\Agenda de Contacto\Services\obj\Debug\Services.dll
+C:\Users\Pedro\Documents\Tareas\Programacion\Agenda de Contacto\Services\obj\Debug\Services.pdb
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\Agenda_Contacto-master\Practica_01\Services\bin\Debug\Services.dll
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\Agenda_Contacto-master\Practica_01\Services\bin\Debug\Services.pdb
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\Agenda_Contacto-master\Practica_01\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\Agenda_Contacto-master\Practica_01\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\Agenda_Contacto-master\Practica_01\Services\obj\Debug\Services.dll
+C:\Users\Pedro\Documents\Cuatrimestre 3\Programacion\Agenda_Contacto-master\Practica_01\Services\obj\Debug\Services.pdb
+C:\Users\lujen\Desktop\prog-2\Tarea 3\Practica_01\Services\bin\Debug\Services.dll
+C:\Users\lujen\Desktop\prog-2\Tarea 3\Practica_01\Services\bin\Debug\Services.pdb
+C:\Users\lujen\Desktop\prog-2\Tarea 3\Practica_01\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\lujen\Desktop\prog-2\Tarea 3\Practica_01\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\lujen\Desktop\prog-2\Tarea 3\Practica_01\Services\obj\Debug\Services.dll
+C:\Users\lujen\Desktop\prog-2\Tarea 3\Practica_01\Services\obj\Debug\Services.pdb
